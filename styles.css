@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Cool color blend */
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.time {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.social-media a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ff7e5f;
+}
+
+.slider {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.slider img {
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
